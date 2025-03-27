@@ -16,9 +16,9 @@ Visit Github Hosting Website Tugas
 
 Tugas Praktikum
 
-Praktikum 1: http://127.0.0.1:5500/ "Pertemuan 2"
+Praktikum 1: http://127.0.0.1:5500/TautanPraktikum1index.html "Pertemuan 2"
 
-Praktikum 2: http://127.0.0.1:5500/index.html "Pertemuan 3"
+Praktikum 2: http://127.0.0.1:5500/TautanPraktikum2index.html "Pertemuan 3"
 
 Praktikum 3: http://127.0.0.1:5500/TautanPraktikum3index.html "Pertemuan 4"
 
