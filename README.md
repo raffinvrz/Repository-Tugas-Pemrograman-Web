@@ -22,4 +22,4 @@ Praktikum 2: http://127.0.0.1:5500/TautanPraktikum2index.html "Pertemuan 3"
 
 Praktikum 3: http://127.0.0.1:5500/TautanPraktikum3index.html "Pertemuan 4"
 
-Praktikum 4: http://127.0.0.1:5500/TautanPraktikum4index.html "Pertemuan 5"
+Praktikum 4: http://127.0.0.1:5500/TautanPraktikumPBW4index.html "Pertemuan 5"
